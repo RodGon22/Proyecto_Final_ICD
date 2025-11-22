@@ -27,9 +27,11 @@
 
 ## Referencias
 
-- 
-- 
-- 
+- [Krizhevsky et al., 2009] Krizhevsky, A., Hinton, G., et al. (2009). Learning multiple layers of features from tiny images.
+
+- [LeCun, 1998] LeCun, Y. (1998). The mnist database of handwritten digits. _http://yann.lecun.com/exdb/mnist/_.
+
+- [Xiao et al., 2017] Xiao, H., Rasul, K., and Vollgraf, R. (2017). Fashion-mnist: a novel image dataset for benchmarking machine learning algorithms. _arXiv preprint arXiv:1708.07747_.
 
 ---
 
