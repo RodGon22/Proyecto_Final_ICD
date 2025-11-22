@@ -1,1 +1,1 @@
-Other example
+La base de datos rebasa los 25 Mb de GitHub. Es prefereible descargarla directamente de la Página web de OpenML: https://www.openml.org/search?type=data&sort=runs&id=554&status=active
