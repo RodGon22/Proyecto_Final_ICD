@@ -1,6 +1,15 @@
 # Proyecto Final Introducción a Ciencia de Datos
 
+## Objetivo
+Explorar el uso de técnicas de reducción de dimensión y factorización matricial (como
+PCA o NMF) aplicadas a imágenes, con el propósito de extraer patrones visuales, comparar
+representaciones y clasificar imágenes de manera no supervisada.
+
+
 ## Descripción del Proyecto
+Este proyecto busca que principiantes trabajen con imágenes reales, aplicando transformaciones,
+reducciones de dimensión y visualizaciones de componentes latentes; comprendiendo cómo la información visual
+puede representarse mediante métodos estadísticos y lineales.
 
 ## Autor:
 - Rodrigo Gonzaga Sierra
