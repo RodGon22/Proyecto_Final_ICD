@@ -27,7 +27,7 @@ puede representarse mediante métodos estadísticos y lineales.
 
 ### 4. Visualización y resultados
 
-## Tecnologías:
+## Tecnologías 🛠️
 
 - **Lenguajes:** Python 
 - **Visualización:** 
