@@ -34,7 +34,7 @@ puede representarse mediante métodos estadísticos y lineales.
 - **Control de Versiones:** Git / GitHub.
 - **Documentación:** LaTeX .
 
-📚 ## Referencias
+ ## Referencias 📚
 
 -  Krizhevsky, A., Hinton, G., et al. (2009). Learning multiple layers of features from tiny images.
 
