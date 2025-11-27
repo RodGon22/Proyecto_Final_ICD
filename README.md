@@ -21,7 +21,17 @@ puede representarse mediante métodos estadísticos y lineales.
 
 ### 1. Preprocesamiento de los datos
 
-### 2. Reducción de dimensiones
+### 2. Técnicas de reducción de dimensiones
+
+### **PCA**  
+Obtiene direcciones de máxima varianza mediante la SVD. En imágenes, sus componentes representan patrones globales (bordes, trazos gruesos).
+
+### **NMF**  
+Descompone la imagen en partes aditivas no negativas. Resulta interpretativamente útil para señalar “trozos” visuales (mangas, curvas, bordes).
+
+### **t-SNE**  
+Construye proyecciones 2D preservando relaciones de vecindad. Permite visualizar estructuras no lineales invisibles para PCA.
+
 
 ### 3. Redes neuronales
 
