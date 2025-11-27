@@ -34,13 +34,36 @@ Construye proyecciones 2D preservando relaciones de vecindad. Permite visualizar
 
 
 ### 3. Redes neuronales
+Se implementan 4 redes neuronales:
+
+- FC simple para MNIST  
+- FC más profunda para Fashion-MNIST  
+- FC de 10 000 neuronas para CIFAR-10  
+- LeNet-5 para CIFAR-10  
 
 ### 4. Visualización y resultados
+
+### **MNIST**  
+- PCA produce componentes globales que capturan trazos.  
+- NMF produce partes más interpretable.  
+- Las proyecciones 2D muestran clusters definidos.
+
+### **Fashion-MNIST**  
+- PCA muestra mezcla de atributos globales, difícil de interpretar.  
+- NMF extrae partes locales, aunque menos claras que en MNIST.  
+- t-SNE mejora la separación pero aún hay solapamiento fuerte.
+
+### **CIFAR-10**  
+- PCA y NMF son poco interpretables por el alto nivel de ruido y variación.  
+- Clusters pobres incluso con t-SNE.
+
+- Las redes neuronales ofrecen una mejor aproximación para clasificación.  
+- Se sugiere como trabajo futuro usar UMAP, autoencoders y CNNs más profundas.
 
 ## Tecnologías 🛠️
 
 - **Lenguajes:** Python 
-- **Visualización:** 
+- **Visualización:** matplotlib, seaborn
 - **Control de Versiones:** Git / GitHub.
 - **Documentación:** LaTeX .
 
