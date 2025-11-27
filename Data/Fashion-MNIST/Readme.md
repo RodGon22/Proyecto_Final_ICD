@@ -32,3 +32,5 @@ Cada ejemplo de entrenamiento y prueba está asignado a una de las siguientes et
 | 7     | Sneaker     |
 | 8     | Bag         |
 | 9     | Ankle boot  |
+
+![Ejemplos de Fashion-MNIST](https://github.com/zalandoresearch/fashion-mnist/raw/master/doc/img/fashion-mnist-sprite.png)
